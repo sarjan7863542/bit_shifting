@@ -1,0 +1,9 @@
+2.1) Find perimeter difference of earth and circle around it in same units as provided in
+the example.
+PCIRCLE − PEARTH = X;
+
+2P(r+1) - 2Pr = X
+2P(r+1) = 2Pr + 2P
+2Pr + 2P - 2Pr = X
+
+2P = X
