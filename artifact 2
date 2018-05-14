@@ -1,0 +1,15 @@
+1.1) Why would you like to learn coding & scripting?
+  I want to be able to use node.red for my projects
+1.2) How and where will you use gained knowledge?
+  Mainly home automation and for fun projects
+1.3) Have you had any previous experience related to computer science/IT? Please
+describe it.
+  Litle bit of this and that.. I have bachelors degree in Informatics, I am tech savvy and in general I am a bit of a geek :)
+1.4) Do you have a dream project which this training would allow you to complete?
+  I want to have a diy smart house solution for multiple rooms:
+    has to be scaleable
+    I am thinking about remote wireless nodes in each room
+    one node per room - they should be able to work seperatly, but also exchange information
+    every node has to be able to control of lights, blinds, music and tv, sensors
+    would love to include google home as UI
+    if this beast would not burn my home - that would be an advantage
